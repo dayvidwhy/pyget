@@ -1,4 +1,4 @@
-# pyget - A Python Downloader
+# pyget
 A python3+ script to download an ftp or http file from a server.
 
 ## Getting Started
